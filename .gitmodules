@@ -7,3 +7,6 @@
 [submodule "Frontend/React-Introduction"]
 	path = Frontend/React-Introduction
 	url = https://github.com/Boss-Coder-Academy/React-Introduction
+[submodule "Frontend/React-Routers-Hooks"]
+	path = Frontend/React-Routers-Hooks
+	url = https://github.com/Boss-Coder-Academy/React-Routers-Hooks
