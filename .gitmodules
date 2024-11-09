@@ -1,3 +1,6 @@
 [submodule "HLD/awesome-system-design-resources"]
 	path = HLD/awesome-system-design-resources
 	url = https://github.com/ashishps1/awesome-system-design-resources.git
+[submodule "Behavioural/awesome-behavioral-interviews"]
+	path = Behavioural/awesome-behavioral-interviews
+	url = https://github.com/ashishps1/awesome-behavioral-interviews
