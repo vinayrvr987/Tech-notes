@@ -4,3 +4,6 @@
 [submodule "Behavioural/awesome-behavioral-interviews"]
 	path = Behavioural/awesome-behavioral-interviews
 	url = https://github.com/ashishps1/awesome-behavioral-interviews
+[submodule "Frontend/React-Introduction"]
+	path = Frontend/React-Introduction
+	url = https://github.com/Boss-Coder-Academy/React-Introduction
