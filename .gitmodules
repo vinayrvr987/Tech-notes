@@ -10,3 +10,18 @@
 [submodule "Frontend/React-Routers-Hooks"]
 	path = Frontend/React-Routers-Hooks
 	url = https://github.com/Boss-Coder-Academy/React-Routers-Hooks
+[submodule "backend/ExpressJS"]
+	path = backend/ExpressJS
+	url = https://github.com/Boss-Coder-Academy/ExpressJS
+[submodule "Frontend/React-Redux"]
+	path = Frontend/React-Redux
+	url = https://github.com/Boss-Coder-Academy/React-Redux
+[submodule "backend/Node"]
+	path = backend/Node
+	url = https://github.com/Boss-Coder-Academy/Node
+[submodule "deployment/docker-notes"]
+	path = deployment/docker-notes
+	url = https://github.com/etxahun/docker-notes
+[submodule "deployment/Certified-Kubernetes-Administrator-Notes"]
+	path = deployment/Certified-Kubernetes-Administrator-Notes
+	url = https://github.com/ismet55555/Certified-Kubernetes-Administrator-Notes
