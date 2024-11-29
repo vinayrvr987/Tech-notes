@@ -1,17 +1,31 @@
-# interview-notes
+# Full Stack-notes
 
-FULL STACK INTERVIEW NOTES
+```bash
+Backend: Java, Python, Express, NodeJS
+Frontend: ReactJS, Redux, JavaScript, HTML, CSS
+Deployment: Kubernetes, Docker
+Testing: Python, Robot Framework
+System Design: Low level Design, High level Design
+Miscellaneous: Amazon AWS, Datadog
+```
 
-FRONTEND:
-REACTJS
+To check in your local vscode:
 
-BACKEND:
-MONGO
-EXPRESS
-NODEJS
-MYSQL
+```bash
+git submodule update --init --recursive
+```
 
-DESIGN:
-HIGH LEVEL DESIGN
-LOW LEVEL DESIGN
+
+Open VSCode settings.json file with;
+
+Ctrl Shift P
+Preferences: Open User Settings
+Add these lines to json file before the last 
+
+```bash
+    , // don't forget the comma
+    "workbench.editorAssociations": {   
+        "*.md": "vscode.markdown.preview.editor",
+    }
+```
 
