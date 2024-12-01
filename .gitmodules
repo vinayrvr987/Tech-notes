@@ -25,3 +25,6 @@
 [submodule "deployment/Certified-Kubernetes-Administrator-Notes"]
 	path = deployment/Certified-Kubernetes-Administrator-Notes
 	url = https://github.com/ismet55555/Certified-Kubernetes-Administrator-Notes
+[submodule "HLD/awesome-low-level-design"]
+	path = HLD/awesome-low-level-design
+	url = https://github.com/ashishps1/awesome-low-level-design
