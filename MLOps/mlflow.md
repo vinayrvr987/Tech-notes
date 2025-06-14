@@ -1,4 +1,4 @@
-# MLflow Complete Guide - ML Engineering Job Preparation
+# MLflow Complete Guide
 
 ## Table of Contents
 1. [What is MLflow?](#what-is-mlflow)
